@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=4600&pause=800&color=10B31B&center=true&vCenter=true&width=800&height=75&lines=Welcome+to+my+digital+space!;Excited+to+Exploring+the+Frontiers+of+Technology;Software+Engineering+%7C+AI+Automation+%7C+Data+Science)](https://git.io/typing-svg)
 
+---
 
-# Tach Stack
+### 💻 Tech Stack
 #### > Language:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -26,7 +27,9 @@
 #### > Infrastruktur
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
+### 📊 GitHub Statistics
 ![](https://github-readme-stats.shion.dev/api?username=raptamayahya21-prb&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=raptamayahya21-prb&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raptamayahya21-prb&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
