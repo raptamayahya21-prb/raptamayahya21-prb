@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=4700&pause=1000&color=16F725&width=435&lines=My+name+is+Raptama+Yahya+Purba;Exploring+the+Frontiers+of+Technology;Software+Engineering+%7C+AI+Automation+%7C+Data+Science)](https://git.io/typing-svg)
+
 ![Raptama Yahya Purba](img/github-header-1.png)
-
-
 
 #### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rptmayhya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raptama-yahya-purba06) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@RaptamaYahyaPurba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rptmyhya)
