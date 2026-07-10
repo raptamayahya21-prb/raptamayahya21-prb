@@ -32,3 +32,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raptamayahya21-prb&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img data-importer="snake" src="https://raw.githubusercontent.com/raptamayahya21-prb/raptamayahya21-prb/snake-output/snake.svg" alt="Snake animation" />
+
+###
