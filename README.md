@@ -37,4 +37,4 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/raptamayahya21-prb/raptamayahya21-prb/snake-output/snake.svg" alt="Snake animation" />
 
 #### Github Static:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=293036&color=049506&line=009e03&point=b6bab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=0d1117&color=62ff57&line=4aeb1e&point=57ff5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
