@@ -35,13 +35,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raptamayahya21-prb&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=0d1117&color=62ff57&line=4aeb1e&point=57ff5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 #### > Contribute Snake:
 <img data-importer="snake" src="https://raw.githubusercontent.com/raptamayahya21-prb/raptamayahya21-prb/snake-output/snake.svg" alt="Snake animation" />
 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=0d1117&color=62ff57&line=4aeb1e&point=57ff5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+---
 
 ##### Let's Connect in:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&center=true&vCenter=true)](https://instagram.com/rptmayhya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&center=true&vCenter=true)](https://linkedin.com/in/raptama-yahya-purba06) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&center=true&vCenter=true)](https://medium.com/@RaptamaYahyaPurba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&center=true&vCenter=true)](https://tiktok.com/@rptmyhya)
