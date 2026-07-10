@@ -1,18 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=4600&pause=800&color=10B31B&center=true&vCenter=true&width=800&height=75&lines=Welcome+to+my+digital+space!;Exploring+the+Frontiers+of+Technology;Software+Engineering+%7C+AI+Automation+%7C+Data+Science)](https://git.io/typing-svg)
 
-![Raptama Yahya Purba](img/github-header-1.png)
 
-#### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rptmayhya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raptama-yahya-purba06) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@RaptamaYahyaPurba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rptmyhya)
+##### > Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&center=true)](https://instagram.com/rptmayhya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&center=true)](https://linkedin.com/in/raptama-yahya-purba06) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&center=true)](https://medium.com/@RaptamaYahyaPurba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&center=true)](https://tiktok.com/@rptmyhya)
 
-#### Language:
+##### > Language:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Frontend:
+##### > Frontend:
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  
- #### Backend:
+ ##### > Backend:
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  
  
@@ -33,8 +32,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-#### Snake:
+##### Contribute Snake:
 <img data-importer="snake" src="https://raw.githubusercontent.com/raptamayahya21-prb/raptamayahya21-prb/snake-output/snake.svg" alt="Snake animation" />
 
-#### Github Static:
+ 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=0d1117&color=62ff57&line=4aeb1e&point=57ff5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
