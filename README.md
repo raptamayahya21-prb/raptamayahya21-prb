@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=4700&pause=1000&color=16F725&width=435&lines=My+name+is+Raptama+Yahya+Purba;Exploring+the+Frontiers+of+Technology;Software+Engineering+%7C+AI+Automation+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4600&pause=800&color=16F725&center=true&vCenter=true&width=800&height=75&lines=My+name+is+Raptama+Yahya+Purba;Exploring+the+Frontiers+of+Technology;Software+Engineering+%7C+AI+Automation+%7C+Data+Science)](https://git.io/typing-svg)
 
 ![Raptama Yahya Purba](img/github-header-1.png)
 
