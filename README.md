@@ -32,6 +32,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raptamayahya21-prb&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+#### Snake:
 <img data-importer="snake" src="https://raw.githubusercontent.com/raptamayahya21-prb/raptamayahya21-prb/snake-output/snake.svg" alt="Snake animation" />
 
-###
+#### Github Static:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raptamayahya21-prb&bg_color=000000&color=0aa40c&line=0a9922&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
